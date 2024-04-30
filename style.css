@@ -79,8 +79,14 @@ html, body
     
 }
 
+.content
+{
+    margin-left: 10vh;
+}
+
 .textBody
 {
-    margin:10px;
+    font-size: 2vh;
+    margin:5px;
     width: 80vh;
 }
