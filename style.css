@@ -62,9 +62,9 @@ html, body
 
 .boxImage img
 {
-    margin: 5px;
-    width: 200px;
-    height: 190px;
+    margin: 0.5vh;
+    width: 20vh;
+    height: 21vh;
     display: block;
 }
 
