@@ -1,4 +1,4 @@
 1 - ver como pode ser o melhor jeito de colocar o texto, seja por um documento pdf,
 uma foto, algum tipo de janela interativa, um arquivo (.txt).
 
-2 - como criar novas reviews 
+2 - como criar novas reviews mais fácil; Talvez uma página de login e uma outra de postagens.
