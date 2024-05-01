@@ -85,13 +85,25 @@ html, body
 .content
 {
     margin-left: 10vh;
+    font-family: monospace;
 }
 
 .textBody
 {
-    background-color: aqua;
-    font-family: monospace;
+    background-color: rgb(77, 185, 231);
     font-size: 2vh;
     margin:1vh;
     width: 80vh;
+}
+
+.titulosRev
+{
+    margin: 1vh;
+}
+
+#pagRet
+{
+    font-size: 2vh;
+    font-weight: bold;
+    margin-left: 1vh;
 }
