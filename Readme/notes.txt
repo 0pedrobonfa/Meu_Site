@@ -2,3 +2,5 @@
 uma foto, algum tipo de janela interativa, um arquivo (.txt).
 
 2 - como criar novas reviews mais fácil; Talvez uma página de login e uma outra de postagens.
+
+3 - versão 1.0 finalmente.
