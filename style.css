@@ -9,12 +9,12 @@ html, body
 .container_pagina
 {
     font-family: monospace;
-    margin:10px;
+    margin:5vh;
 }
 
 #titulos
 {
-    font-size: 50px;
+    font-size: 6vh;
     font-style: oblique;
     font-family: monospace;
     color: red;
@@ -23,7 +23,7 @@ html, body
 #textoNaPagina
 {
     font-family: monospace;
-    font-size: 30px;
+    font-size: 4vh;
     color: rgb(0, 0, 0);
 }
 
@@ -31,10 +31,12 @@ html, body
 #box
 {
     display: flex;
-    height: 200px;
-    width: 60em;
-    margin-top: 5px;
+    height: 22vh;
+    width: 82vh;
+    margin-top: 2vh;
     background-color: black;
+    border-radius: 0.5vh;
+    border-color: rgb(132, 0, 255);
 }
 
 #boxText
@@ -54,9 +56,9 @@ html, body
 
 .boxImage
 {
-    margin-right: 5px;
-    width: 200px;
-    height: 200px;
+    margin-right: 1vh;
+    width: 50vh;
+    height: 50vh;
     overflow: hidden;
 }
 
@@ -70,12 +72,13 @@ html, body
 
 #botaoReviews
 {
-    width: 150px;
-    height: 20px;
+    width: 18vh;
+    height: 2vh;
     display: flex;
     justify-content: center;
-    margin-top: 130px;
-    margin-left: 380px;
+    margin-top: 15vh;
+    margin-left: 35vh;
+    margin-right: 0.58vh;
     
 }
 
@@ -86,7 +89,9 @@ html, body
 
 .textBody
 {
+    background-color: aqua;
+    font-family: monospace;
     font-size: 2vh;
-    margin:5px;
+    margin:1vh;
     width: 80vh;
 }
