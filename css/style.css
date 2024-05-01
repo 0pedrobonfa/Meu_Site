@@ -85,12 +85,13 @@ html, body
 .content
 {
     margin-left: 10vh;
-    font-family: monospace;
+    font-family: Arial;
 }
 
 .textBody
 {
-    background-color: rgb(114, 205, 244);
+    padding-left: 1vh;
+    background-color: rgb(156, 231, 252);
     font-size: 2vh;
     margin:1vh;
     width: 80vh;
