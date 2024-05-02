@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Página para publicar reviews</title>
     <link rel="stylesheet" href="./style.css">
+    <script type="module" src="./public.js"></script>
 </head>
 <body>
     
@@ -12,7 +13,10 @@
     <p id="textoNaPagina">Escreva seu texto abaixo: </p>
     <div class="container">
         <textarea name="review" id="novaReview" cols="100" rows="40"></textarea>
+        <div id="tradução">
+            <p id="resultado"> </p>
+        </div>
     </div>
-    <button id="btnSendNewReview">Enviar Review</button>
+    <button id="btnSendNewReview">Traduzir para HTML</button>
 </body>
 </html>
