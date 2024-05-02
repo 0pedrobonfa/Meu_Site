@@ -1,13 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Página para publicar reviews</title>
+    <link rel="stylesheet" href="./style.css">
 </head>
 <body>
     
-    <h1>Publique sua nova review!</h1>
-
+    <h1 id="titulos">Publique sua nova review!</h1>
+    <p id="textoNaPagina">Escreva seu texto abaixo: </p>
+    <div class="container">
+        <textarea name="review" id="novaReview" cols="100" rows="40"></textarea>
+    </div>
+    <button id="btnSendNewReview">Enviar Review</button>
 </body>
 </html>
