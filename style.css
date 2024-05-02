@@ -108,3 +108,11 @@ html, body
     font-weight: bold;
     margin-left: 1vh;
 }
+
+#form
+{
+    width: 50vh;
+    height: 100vh;
+    margin:5vh auto;
+    margin-top: 40vh;
+}
