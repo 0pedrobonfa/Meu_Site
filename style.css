@@ -28,7 +28,7 @@ html, body
 }
 
 
-#box
+.box
 {
     display: flex;
     height: 22vh;
@@ -70,7 +70,7 @@ html, body
     display: block;
 }
 
-#botaoReviews
+.botaoReviews
 {
     width: 18vh;
     height: 2vh;

@@ -1,6 +1,10 @@
-1 - ver como pode ser o melhor jeito de colocar o texto, seja por um documento pdf,
-uma foto, algum tipo de janela interativa, um arquivo (.txt).
+Versão do update: 1.2
 
-2 - como criar novas reviews mais fácil; Talvez uma página de login e uma outra de postagens.
+1 - como criar novas reviews mais fácil; Talvez uma página de login e uma outra de postagens.
+- esse n deu mt certo pq precisaria criar um documento novo tada vez q fosse fazer e n sei
+como o github sites ia aceitar isso.
 
-3 - versão 1.0 finalmente.
+2 - fazer melhora no html e no css.
+
+3 - tentar sistema de pastas e estudar função assíncrona melhor pra ver se tem como implementar
+no site.
