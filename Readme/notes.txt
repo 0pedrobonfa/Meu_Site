@@ -6,3 +6,7 @@
 funções de login e deixando o main só pra executar, não sei)
 
 4- Olhar o código e ver o que pode ser melhorado (organizacionalmente falando, talvez).
+
+5 - talvez dê pra fazer o ngc com o login numa página já existente
+só q vou precisar aprender promise pra deixar td numa página só de js e conseguir 
+corelacionar as coisas mais facilmente
