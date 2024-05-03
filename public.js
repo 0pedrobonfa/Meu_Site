@@ -19,4 +19,5 @@ btnSendNewReview.addEventListener("click", function () {
 
  });
 
+ //o de baixo n funciona por conta de esperar o de cima ir primeiro
 document.getElementById('tituloReview04').innerHTML = "Sonic 2" 
