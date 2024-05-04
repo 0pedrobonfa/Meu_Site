@@ -12,15 +12,15 @@ html, body
     margin:5vh;
 }
 
-#titulos
+.titulos
 {
     font-size: 6vh;
     font-style: oblique;
     font-family: monospace;
-    color: red;
+    color: rgb(0, 8, 97);
 }
 
-#textoNaPagina
+.textoNaPagina
 {
     font-family: monospace;
     font-size: 4vh;
@@ -45,9 +45,8 @@ html, body
     
 }
 
-#boxContent-Text
+.boxContent-Text
 {
-    display: flex;
     justify-content: start;
     color: rgb(255, 255, 255);
     
@@ -73,10 +72,10 @@ html, body
 .botaoReviews
 {
     width: 18vh;
-    height: 2vh;
+    height: 3vh;
     display: flex;
     justify-content: center;
-    margin-top: 15vh;
+    margin-top: 13vh;
     margin-left: 35vh;
     margin-right: 0.58vh;
     
@@ -84,7 +83,7 @@ html, body
 
 .content
 {
-    margin-left: 10vh;
+    margin-left: 9vh;
     font-family: Arial;
 }
 
