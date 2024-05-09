@@ -42,9 +42,16 @@
         </div>
         <div>
         <p class="textoNaPagina">
-          Aqui você pode <a href="reviews.html">voltar à pagina de reviews</a>.
+          Aqui você pode <button id="backPageReview">voltar</button>.
         </p>
       </div>
     </div>
   </body>
+  <script>
+
+    document.getElementById("backPageReview").addEventListener("click",function(){
+        window.location.href = "reviews.html";
+    })
+
+  </script>
 </html>

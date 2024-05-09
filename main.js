@@ -1,3 +1,8 @@
+
+document.getElementById("backPageIndex").addEventListener("click",function(){
+    window.location.href = "index.html";
+})
+
 document.getElementById("r01").addEventListener("click",function(){
     window.location.href = "Review01.html";
 })

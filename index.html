@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>RPB - Reviews Pedro Bonfá</title>
     <link rel="stylesheet" href="style.css" />
+    <script type="module" src="main.js"></script>
   </head>
   <body>
     <div class="container_pagina">
@@ -14,9 +15,16 @@
         Muito obrigado por acessar meu site e se interessar nas reviews!
       </h2>
       <h2 class="textoNaPagina">
-        Veja minhas <a href="reviews.html">reviews</a> sobre quadrinhos, jogos,
+        Veja minhas <button id="goPageReview">reviews</button> sobre quadrinhos, jogos,
         videos, séries e animações.
       </h2>
     </div>
   </body>
+  <script>
+
+  document.getElementById("goPageReview").addEventListener("click",function(){
+      window.location.href = "reviews.html";
+  })
+
+  </script>
 </html>
