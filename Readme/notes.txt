@@ -8,3 +8,9 @@ como o github sites ia aceitar isso.
 
 3 - tentar sistema de pastas e estudar função assíncrona melhor pra ver se tem como implementar
 no site.
+
+4 - label ou "label" e mouse over nas box de review.
+
+5 - fontes das reviews em cima.
+
+6 - hiperlinks como botões.
