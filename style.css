@@ -108,3 +108,21 @@ html, body
     font-weight: bold;
     margin-left: 1vh;
 }
+
+.moveBtn
+{
+
+    font-size: 3vh;
+    background-color: black;
+    color: blue;
+
+}
+
+.moveBtn:active
+{
+
+    font-size: 3vh;
+    color: black;
+    background-color:blueviolet;
+
+}
