@@ -81,7 +81,7 @@ html, body
     
 }
 
-.botaoReviews:active
+.botaoReviews:hover
 {
     color:black;
     background-color: yellow;
@@ -124,11 +124,11 @@ html, body
 
 }
 
-.moveBtn:active
+.moveBtn:hover
 {
 
     font-size: 3vh;
-    color: black;
-    background-color:blue;
+    color: blue;
+    background-color: aqua;
 
 }
