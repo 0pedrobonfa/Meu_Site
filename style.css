@@ -81,6 +81,12 @@ html, body
     
 }
 
+.botaoReviews:active
+{
+    color:blue;
+    background-color: yellow;
+}
+
 .content
 {
     margin-left: 9vh;
@@ -123,6 +129,6 @@ html, body
 
     font-size: 3vh;
     color: black;
-    background-color:blueviolet;
+    background-color:blue;
 
 }
