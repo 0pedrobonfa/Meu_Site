@@ -1,5 +1,7 @@
 Versão do update: 1.2
 
+0 - adicionar web components, custom templates.
+
 1 - como criar novas reviews mais fácil; Talvez uma página de login e uma outra de postagens.
 - esse n deu mt certo pq precisaria criar um documento novo tada vez q fosse fazer e n sei
 como o github sites ia aceitar isso.
